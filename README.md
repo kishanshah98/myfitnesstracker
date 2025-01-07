@@ -3,7 +3,8 @@
 ## Project Overview
 This project analyzes personal running performance using historical data logged on Strava. By leveraging statistical calculations, visualizations, and time series analysis in Microsoft Excel, it aims to uncover trends in running distance, pace, and duration over days, weeks, and months. External factors such as weather and time of day are also considered to provide deeper insights into running performance.
 
-<img src="images/image1.jpg" alt="Aesthetic Picture" width="200">
+<img src="images/image1.jpg" alt="Aesthetic Picture" width="400">
+
 ---
 
 ## Data Summary
