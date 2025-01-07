@@ -42,6 +42,14 @@ Key trends and patterns were visualized through graphs, including:
 - **Time of Day Analysis**
 - **Weather-Based Performance Trends**
 
+![Graph Example](images/image7.png)
+![Graph Example](images/image8.png)
+![Graph Example](images/image9.png)
+![Graph Example](images/image10.png)
+![Graph Example](images/image11.png)
+![Graph Example](images/image12.png)
+![Graph Example](images/image13.png)
+![Graph Example](images/image14.png)
 
 ---
 
