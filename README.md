@@ -19,7 +19,7 @@ The dataset tracks several metrics from runs over the past few months. Key colum
 - **Weather**
 - **Time of Day**
 
-![Sample Data Screenshot](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/a1243e4e-0472-4626-bfa1-91a83df6ec55/Screenshot_2024-09-23_at_12.11.07_PM.png)
+![Data Screenshot](image2.png)
 
 ---
 
@@ -27,6 +27,11 @@ The dataset tracks several metrics from runs over the past few months. Key colum
 
 ### **Statistics**
 Using Excel formulas like `AVERAGE`, `SUM`, `STDEV.S`, and `MEDIAN`, basic statistics were calculated for metrics like distance, pace, and duration. These calculations provide a quantitative view of performance over time.
+
+![Graph Example](image3.png)
+![Graph Example](image4.png)
+![Graph Example](image5.png)
+![Graph Example](image6.png)
 
 ### **Data Visualizations**
 Key trends and patterns were visualized through graphs, including:
@@ -37,7 +42,6 @@ Key trends and patterns were visualized through graphs, including:
 - **Time of Day Analysis**
 - **Weather-Based Performance Trends**
 
-![Graph Example](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/2976991a-bfbd-465f-a784-346bd8e6b5da/4fd68b5c-342c-4a4b-9d89-9b691cda5a28.png)
 
 ---
 
