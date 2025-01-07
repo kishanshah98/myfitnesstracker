@@ -75,6 +75,5 @@ Key trends and patterns were visualized through graphs, including:
 ## Future Work
 - **Continuous Updates**: The dataset will be updated regularly to track progress throughout the next year.
 - **Advanced Analysis**: Incorporate time series analysis for predictive modeling and deeper performance insights.
-- **Automation**: Use Excel VBA for dynamic performance alerts, monthly summaries, and custom data entry forms.
 
 Stay tuned for more updates as this journey progresses!
