@@ -59,11 +59,16 @@ Key trends and patterns were visualized through graphs, including:
 - **Morning Runs** showed the fastest average pace (10.67 min/mile), outperforming afternoon and evening runs.
 - Distance remained consistent across times of the day, indicating the time of day impacts pace more than distance.
 
+  
+![Graph Example](images/image15.png)
+![Graph Example](images/image16.png)
+
 ### **Weather Analysis**
 - Runs on **cloudy days** were both longer and faster than on sunny days, suggesting cooler conditions positively influence performance.
 - July showed the most significant difference, with a pace of 10.37 min/mile on cloudy days compared to 11.40 min/mile on sunny days.
 
-![Weather Pivot Table](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5896cf7-e3d0-41ee-9de5-8a038eaa3ec7/70727f8a-4491-4504-b874-2028816415c1/Screenshot_2024-09-23_at_1.36.02_PM.png)
+![Graph Example](images/image17.png)
+![Graph Example](images/image18.png)
 
 ---
 
