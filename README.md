@@ -19,7 +19,7 @@ The dataset tracks several metrics from runs over the past few months. Key colum
 - **Weather**
 - **Time of Day**
 
-![Data Screenshot](image2.png)
+![Data Screenshot](images/image2.png)
 
 ---
 
@@ -28,10 +28,10 @@ The dataset tracks several metrics from runs over the past few months. Key colum
 ### **Statistics**
 Using Excel formulas like `AVERAGE`, `SUM`, `STDEV.S`, and `MEDIAN`, basic statistics were calculated for metrics like distance, pace, and duration. These calculations provide a quantitative view of performance over time.
 
-![Graph Example](image3.png)
-![Graph Example](image4.png)
-![Graph Example](image5.png)
-![Graph Example](image6.png)
+![Graph Example](images/image3.png)
+![Graph Example](images/image4.png)
+![Graph Example](images/image5.png)
+![Graph Example](images/image6.png)
 
 ### **Data Visualizations**
 Key trends and patterns were visualized through graphs, including:
