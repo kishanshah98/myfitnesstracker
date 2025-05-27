@@ -1,5 +1,8 @@
 # 🏃‍♂️ Running Performance Tracking & Analysis
 
+![Data Screenshot](images/image1.jpg)
+
+
 ## 📌 Project Overview  
 This project tracks and analyzes my personal running data using **Microsoft Excel** for data logging and **Tableau** for interactive dashboards. The goal is to uncover trends in **pace**, **distance**, **duration**, and external factors (like environment and time of day) to evaluate performance improvement over time.
 
@@ -17,7 +20,7 @@ The dataset includes running logs from **July 2024 to present**, capturing the f
 
 Runs are recorded manually in Excel and visualized through Tableau Public for ongoing performance insights.
 
-![Data Screenshot](images/image2.png)
+![Data Screenshot](images/image2)
 
 ---
 
@@ -31,7 +34,7 @@ Runs are recorded manually in Excel and visualized through Tableau Public for on
 📊 **Interactive Dashboard**:  
 [View on Tableau Public](https://public.tableau.com/shared/FQK4J32JH?:display_count=n&:origin=viz_share_link)
 
-![Dashboard Screenshot](images/image1.jpg)
+![Dashboard Screenshot](images/image3)
 
 ---
 
