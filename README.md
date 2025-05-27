@@ -20,7 +20,7 @@ The dataset includes running logs from **July 2024 to present**, capturing the f
 
 Runs are recorded manually in Excel and visualized through Tableau Public for ongoing performance insights.
 
-![Data Screenshot](images/image2)
+![Data Screenshot](images/image2.png)
 
 ---
 
@@ -34,7 +34,7 @@ Runs are recorded manually in Excel and visualized through Tableau Public for on
 📊 **Interactive Dashboard**:  
 [View on Tableau Public](https://public.tableau.com/shared/FQK4J32JH?:display_count=n&:origin=viz_share_link)
 
-![Dashboard Screenshot](images/image3)
+![Dashboard Screenshot](images/image3.png)
 
 ---
 
