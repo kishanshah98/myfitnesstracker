@@ -1,79 +1,64 @@
-# Running Performance Tracking and Analysis
+# 🏃‍♂️ Running Performance Tracking & Analysis
 
-## Project Overview
-This project analyzes personal running performance using historical data logged on Strava. By leveraging statistical calculations, visualizations, and time series analysis in Microsoft Excel, it aims to uncover trends in running distance, pace, and duration over days, weeks, and months. External factors such as weather and time of day are also considered to provide deeper insights into running performance.
-
-<img src="images/image1.jpg" alt="Aesthetic Picture" width="400">
+## 📌 Project Overview  
+This project tracks and analyzes my personal running data using **Microsoft Excel** for data logging and **Tableau** for interactive dashboards. The goal is to uncover trends in **pace**, **distance**, **duration**, and external factors (like environment and time of day) to evaluate performance improvement over time.
 
 ---
 
-## Data Summary
-The dataset tracks several metrics from runs over the past few months. Key columns include:
+## 📊 Data Summary  
+The dataset includes running logs from **July 2024 to present**, capturing the following metrics:
 
 - **Date**
-- **Distance (in miles)**
-- **Cumulative Miles Completed**
-- **Duration (in minutes)**
-- **Cumulative Time Ran (in minutes)**
-- **Average Pace (minutes per mile)**
-- **Weather**
-- **Time of Day**
+- **Distance (miles)**
+- **Length of Time Running (minutes)**
+- **Avg Pace (min/mile)**
+- **Environment** (Indoor/Outdoor)
+- **Time of Day** (Morning/Afternoon/Evening)
+
+Runs are recorded manually in Excel and visualized through Tableau Public for ongoing performance insights.
 
 ![Data Screenshot](images/image2.png)
 
 ---
 
-## Exploratory Data Analysis
+## 📈 Dashboard Highlights  
 
-### **Statistics**
-Using Excel formulas like `AVERAGE`, `SUM`, `STDEV.S`, and `MEDIAN`, basic statistics were calculated for metrics like distance, pace, and duration. These calculations provide a quantitative view of performance over time.
+- **Fastest Pace:** 8.2 min/mile  
+- **Longest Run:** 13.8 miles  
+- **Total Runs:** 91  
+- **Improvement in Avg Pace:** -2.0 min/mile  
 
-![Graph Example](images/image3.png)
-![Graph Example](images/image4.png)
-![Graph Example](images/image5.png)
-![Graph Example](images/image6.png)
-
-### **Data Visualizations**
-Key trends and patterns were visualized through graphs, including:
-
-- **Distance Over Time**
-- **Cumulative Miles Ran**
-- **Average Pace Over Time**
-- **Time of Day Analysis**
-- **Weather-Based Performance Trends**
-
-![Graph Example](images/image7.png)
-![Graph Example](images/image8.png)
-![Graph Example](images/image9.png)
-![Graph Example](images/image10.png)
-![Graph Example](images/image11.png)
-![Graph Example](images/image12.png)
-![Graph Example](images/image13.png)
-![Graph Example](images/image14.png)
+![Dashboard Screenshot](images/image1.jpg)
 
 ---
 
-## Key Insights
+## 🔍 Key Insights  
 
-### **Time of Day Analysis**
-- **Morning Runs** showed the fastest average pace (10.67 min/mile), outperforming afternoon and evening runs.
-- Distance remained consistent across times of the day, indicating the time of day impacts pace more than distance.
+### ✅ Pace & Distance Trends  
+- Steady **improvement in average pace** over time  
+- **Distances gradually increased**, indicating improving endurance
 
-  
-![Graph Example](images/image15.png)
-![Graph Example](images/image16.png)
+### 🌅 Time of Day Performance  
+- **Morning runs** had the fastest pace on average  
+- Run breakdown: 45 morning, 29 afternoon, 17 evening  
+- Time of day seems to impact pace more than distance
 
-### **Weather Analysis**
-- Runs on **cloudy days** were both longer and faster than on sunny days, suggesting cooler conditions positively influence performance.
-- July showed the most significant difference, with a pace of 10.37 min/mile on cloudy days compared to 11.40 min/mile on sunny days.
-
-![Graph Example](images/image17.png)
-![Graph Example](images/image18.png)
+### 🏠 Indoor vs Outdoor  
+- Most runs were **indoor** (65 out of 91)  
+- **Outdoor runs** showed slightly faster paces on average
 
 ---
 
-## Future Work
-- **Continuous Updates**: The dataset will be updated regularly to track progress throughout the next year.
-- **Advanced Analysis**: Incorporate time series analysis for predictive modeling and deeper performance insights.
+## 🔮 Future Work  
+- Add new metrics like heart rate and elevation (if available)  
+- Use time series forecasting to estimate future pace improvements  
+- Develop automated alerts using Excel VBA to flag high/low performance days  
 
-Stay tuned for more updates as this journey progresses!
+---
+
+## 🧠 Tools Used  
+- **Microsoft Excel** – Data logging, calculations, and statistical analysis  
+- **Tableau Public** – Dashboard creation and data visualization
+
+Stay tuned for ongoing updates as I continue tracking and analyzing my performance!
+
