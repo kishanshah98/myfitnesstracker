@@ -1,7 +1,3 @@
-# Weight Gain Journey
-
-![Data Screenshot](images/weightgain.png)
-
 # Running Performance Tracking and Analysis
 
 ## Project Overview
