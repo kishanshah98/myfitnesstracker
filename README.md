@@ -2,7 +2,6 @@
 
 ![Data Screenshot](images/image1.jpg)
 
-
 ## 📌 Project Overview  
 This project tracks and analyzes my personal running data using **Microsoft Excel** for data logging and **Tableau** for interactive dashboards. The goal is to uncover trends in **pace**, **distance**, **duration**, and external factors (like environment and time of day) to evaluate performance improvement over time.
 
@@ -56,18 +55,14 @@ Runs are recorded manually in Excel and visualized through Tableau Public for on
 ---
 
 ## 🔮 Future Work  
-- Add new metrics like heart rate and elevation (if available)  
+- Add new metrics like heart rate and elevation 
 - Use time series forecasting to estimate future pace improvements  
 - Develop automated alerts using Excel VBA to flag high/low performance days  
 
 ---
 
 ## 🧠 Tools Used  
-- **Microsoft Excel** – Data logging, calculations, and statistical analysis  
+- **Microsoft Excel** – Data logging  
 - **Tableau Public** – Dashboard creation and data visualization
 
 Stay tuned for ongoing updates as I continue tracking and analyzing my performance!
-
-
-Stay tuned for ongoing updates as I continue tracking and analyzing my performance!
-
