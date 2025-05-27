@@ -28,6 +28,9 @@ Runs are recorded manually in Excel and visualized through Tableau Public for on
 - **Total Runs:** 91  
 - **Improvement in Avg Pace:** -2.0 min/mile  
 
+📊 **Interactive Dashboard**:  
+[View on Tableau Public](https://public.tableau.com/shared/FQK4J32JH?:display_count=n&:origin=viz_share_link)
+
 ![Dashboard Screenshot](images/image1.jpg)
 
 ---
@@ -59,6 +62,9 @@ Runs are recorded manually in Excel and visualized through Tableau Public for on
 ## 🧠 Tools Used  
 - **Microsoft Excel** – Data logging, calculations, and statistical analysis  
 - **Tableau Public** – Dashboard creation and data visualization
+
+Stay tuned for ongoing updates as I continue tracking and analyzing my performance!
+
 
 Stay tuned for ongoing updates as I continue tracking and analyzing my performance!
 
