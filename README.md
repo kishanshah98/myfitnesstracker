@@ -70,6 +70,22 @@ This experiment demonstrates how A/B testing and statistical analysis can be app
 
 ---
 
+## 🧪 Experimentation: Time of Day and Running Performance
+
+To further explore how **time of day** impacts performance, I conducted a **one-way ANOVA** comparing average pace across **Morning**, **Afternoon**, and **Evening** runs.
+
+- **Average Morning Pace**: 9.06 min/mile  
+- **Average Afternoon Pace**: 9.24 min/mile  
+- **Average Evening Pace**: 9.30 min/mile  
+- **F-Statistic**: 2.46  
+- **P-Value**: 0.0913
+
+Although **morning runs were the fastest on average**, the ANOVA test showed that the difference was **not statistically significant** (p > 0.05). This suggests there may be a trend, but more data is needed to confirm a real difference.
+
+This experiment demonstrates the use of **A/B/C testing and variance analysis** to assess how behavioral conditions impact outcomes — a concept widely applicable in experimentation-heavy business environments like personalization or promo testing.
+
+---
+
 ## 🔮 Future Work  
 - Add new metrics like heart rate and elevation 
 - Use time series forecasting to estimate future pace improvements  
